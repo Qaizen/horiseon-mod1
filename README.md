@@ -13,8 +13,10 @@ N/A
 Horiseon website has all working links, alt attributes to image tags, logical structure of HTML/CSS, and updated title element. 
 
 ## Credits
-
 N/A
+
+## Link to live website
+[link](https://qaizen.github.io/horiseon-mod1/#social-media-marketing)
 
 ## Horiseon Screenshots
 
